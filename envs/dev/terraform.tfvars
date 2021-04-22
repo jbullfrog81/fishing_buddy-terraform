@@ -1,0 +1,5 @@
+aws_profile_name      = "default"
+aws_region            = "us-west-2"
+rds_subnet1           = "172.16.1.0/24"
+rds_subnet2           = "172.16.2.0/24"
+vpc_cidr              = "172.16.0.0/16"
